@@ -14,7 +14,7 @@ title {
 
 h1 {
   color: #ffffff;
-  font-family: sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-style: normal;
   text-decoration: none;
   margin-block: 50px;
@@ -23,7 +23,7 @@ h1 {
 
 h2 {
   color: #c7c1c1;
-  font-family: sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-style: normal;
   text-decoration: none;
   line-height: 35px;
@@ -31,7 +31,7 @@ h2 {
 
 h3 {
   color: #dcb6bd;
-  font-family: sans-serif;
+  font-family: serif;
   font-style: normal;
   line-height: 30px;
 }
@@ -55,4 +55,11 @@ p {
 
 .banner-logo {
   align-self: center;
+  margin-block: 20px;
+  margin-top: 30px;
+}
+
+.home-logo {
+  margin-block: 28px;
+  margin-top: 50px;
 }
