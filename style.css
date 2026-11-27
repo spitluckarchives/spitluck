@@ -30,7 +30,7 @@ h2 {
 }
 
 h3 {
-  color: #dcb6bd;
+  color: #ffffff;
   font-family: serif;
   font-style: normal;
   line-height: 30px;
@@ -41,6 +41,10 @@ p {
   font-family: 'Times New Roman', Times, serif;
   font-style: normal;
   line-height: 40px;
+}
+
+a {
+  color: rgb(226, 144, 156);
 }
 
 /* Style the links inside the navigation bar */
